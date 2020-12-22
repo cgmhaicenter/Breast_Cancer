@@ -1,18 +1,14 @@
-# Breast_Cancer Screening on Mammography
+# Breast Cancer Screening on Mammography
 
-NOTE: This code is not intended for clinical use.
+The codes are not intened for clinical use. The codes are developed for screening breast cancer on mammography. On data preprocessing, we use mammography reports for labeling our images. The mammography images could be investigated by some categories. 
 
-## Screening Lesion
-
-
+## Breast Cancer Screening
 
 ## Breast Density
 
-## BI-RADS
-
 ## Prerequisites
 
-torch>=1.1.0
+tensorflow>=1.2.0
 
 torchvision>=0.2.2
 
