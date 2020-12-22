@@ -10,9 +10,7 @@ The codes are not intened for clinical use. The codes are developed for screenin
 
 ## Prerequisites
 
-tensorflow>=1.2.0
-
-torchvision>=0.2.2
+tensorflow>=2.1.0
 
 numpy>=1.14.3
 
